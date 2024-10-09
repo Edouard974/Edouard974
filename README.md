@@ -33,7 +33,7 @@ Currently, I'm a 3rd year student looking for an end of studies internship in th
 
 ## School Projects 🏫
 
-- [GameDev] : A OOP Python platform-fighter videogame developped in a 1-week sprint. Our group obtained a perfect grade.
+- [Hyper Smash Bros](https://github.com/Enzu83/hyper_smash_bros) : A OOP Python platform-fighter videogame developped in a 1-week sprint. Our group obtained a perfect grade.
 - [Weld quality prediction] : An EL-oriented semi-supervised approach to predicting the quality of welds from an incomplete dataset.
 - [Fake-News modelling] : Modelling the propagation of fake news through graph algorithms.
 
