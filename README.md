@@ -20,7 +20,7 @@ Currently, I'm a 3rd year student looking for an end of studies internship in th
 
 ## Data Challenges 👊
 
-- BCG-X & CentraleSupélec Data Challenge 2023 - [Traffic time-series prediction](https://www.bcg.com/x) : Ranked 1st out of 30+ teams through EL with a gb-tree and a MLP
+- BCG-X & CentraleSupélec Data Challenge 2023 - [Traffic time-series prediction](https://www.bcg.com/x) : Ranked 1st out of 30+ teams
 - QRT Data Challenge 2023 - [Can you explain the price of electricity ?](https://challengedata.ens.fr/participants/challenges/97/) : Ranked top 7% out of 900+ participants
 - QRT Data Challenge 2020 - [Stock Return Prediciton](https://challengedata.ens.fr/participants/challenges/23/) : Ranked top 20% out of 400+ participants
 
