@@ -21,10 +21,8 @@ Currently, I'm a 3rd year student looking for an end of studies internship in th
 ## Data Challenges 👊
 
 - BCG-X & CentraleSupélec Data Challenge 2023 : A competition about predicting traffic in Paris. Our team ranked 1st.
-- QRT Data Challenge 2024 :
-- QRT Data Challenge 2023 :
-- QRT Data Challenge 2020 :
-
+- QRT Data Challenge 2023 - [Can you explain the price of electricity ?](https://challengedata.ens.fr/participants/challenges/97/) : Ranked top 7% out of 900+ participants
+- QRT Data Challenge 2020 - [Stock Return Prediciton](https://challengedata.ens.fr/participants/challenges/23/) : Ranked top 20% out of 400+ participants
 
 ## Personal Projects 🔥
 
