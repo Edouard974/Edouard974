@@ -26,8 +26,9 @@ Currently, I'm a 3rd year student looking for an end of studies internship in th
 
 ## Personal Projects 🔥
 
+- Loquans : Member of a student startup project where we developped a video analysis application using DL (Sentiment Analysis, Gaze Tracking, Speech Transcription...)
 - Computer Vision Project : Work in progress
-- Toy example Computer Vision Project : [Facial Age Recognition](https://github.com/Edouard974/Face-Age-Recognition). A toy example in order for me to learn some packages.
+- [Face Age Recognition](https://github.com/Edouard974/Face-Age-Recognition) : A toy example on face age recognition in order for me to learn some packages and try out transfer learning (ResNet, Dinov2...)
 - Experience with Stable Diffusion : LoRa-training, ControlNet...
 
 ## School Projects 🏫
