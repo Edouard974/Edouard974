@@ -7,7 +7,7 @@ Final-year student at [CentraleSupélec](https://www.centralesupelec.fr/) pursui
 My [LinkedIn](https://www.linkedin.com/in/edouard-seguier-535097152/)
 
 
-## Previous positions ✈️
+## Previous positions 👔
 
 - AI Research Intern at [MBDA](https://www.ubisoft.com/fr-fr/studio/laforge) Paris : Led the development of a neural network research project - 6 months
 
