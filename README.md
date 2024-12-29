@@ -2,7 +2,7 @@
 
 ## About me 😴
 
-My name is Edouard Seguier and I am a french final-year student at [CentraleSupélec](https://www.centralesupelec.fr/) pursuing a Master’s in Computer Science and Artificial Intelligence. My journey in Machine Learning has been defined by a commitment to learning and applying knowledge beyond academic settings.
+Final-year student at [CentraleSupélec](https://www.centralesupelec.fr/) pursuing a Master’s in Computer Science and Artificial Intelligence. My journey in Machine Learning has been defined by a commitment to learning and applying knowledge beyond academic settings.
 
 My [LinkedIn](https://www.linkedin.com/in/edouard-seguier-535097152/)
 
