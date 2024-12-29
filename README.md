@@ -4,7 +4,7 @@
 
 My name is Edouard Seguier and I am a french final-year student at [CentraleSupélec](https://www.centralesupelec.fr/) pursuing a Master’s in Computer Science and Artificial Intelligence. My journey in Machine Learning has been defined by a commitment to learning and applying knowledge beyond academic settings.
 
-My [LinkedIn](https://www.linkedin.com/in/edouard-seguier-535097152/))
+My [LinkedIn](https://www.linkedin.com/in/edouard-seguier-535097152/)
 
 
 ## Previous positions ✈️
@@ -23,7 +23,7 @@ My [LinkedIn](https://www.linkedin.com/in/edouard-seguier-535097152/))
 
 ## Personal Projects 🔥
 
-- Loquans : Co-founded a student startup, developed a DeepLearning-Powered webapp to provide feedback on oral presentations (Sentiment Analysis, Gaze Tracking, Speech Transcription...)
+- [Loquans] : Co-founded a student startup, developed a DeepLearning-Powered webapp to provide feedback on oral presentations (Sentiment Analysis, Gaze Tracking, Speech Transcription...)
 
 - [Face Age Recognition](https://github.com/Edouard974/Face-Age-Recognition) : CNNs and Transfer Learning using ResNet and Dinov2
 - [Image Generation and Editing] : A StableDiffusion-based image editing pipeline in ComfyUI
