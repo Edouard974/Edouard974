@@ -9,7 +9,7 @@ My [LinkedIn](https://www.linkedin.com/in/edouard-seguier-535097152/)
 
 ## Previous positions ✈️
 
-- AI Research Intern at [MBDA](https://www.ubisoft.com/fr-fr/studio/laforge) Paris : Applied DeepLearning - 6 months
+- AI Research Intern at [MBDA](https://www.ubisoft.com/fr-fr/studio/laforge) Paris : Led the development of a neural network research project - 6 months
 
 - Software Dev Consultant at [Adamantia](https://www.adamantia.paris/) Paris : RAG-powered consulting-oriented chatbot (langchain, chromaDB, AWS, Django) - 6 months
 
